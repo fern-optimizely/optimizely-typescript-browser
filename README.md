@@ -1,23 +1,9 @@
-# {Company} Node Library
+# Optimizely AI Backend TypeScript Browser Library
 
-[![npm shield](https://img.shields.io/npm/v/@fern-api/{company})](https://www.npmjs.com/package/@fern-api/{company})
+[![npm shield](https://img.shields.io/npm/v/@fern-api/fern-optimizely-browser)](https://www.npmjs.com/package/@fern-api/fern-optimizely-browser)
 [![fern shield](https://img.shields.io/badge/%F0%9F%8C%BF-SDK%20generated%20by%20Fern-brightgreen)](https://github.com/fern-api/fern)
 
-The {Company} Node.js library provides access to the {Company} API from JavaScript/TypeScript.
-
-## Documentation
-
-API reference documentation is available [here](docs_url).
-
-## Usage
-
-[![Try it out](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](TODO)
-
-```typescript
-import { TODO } from "TODO";
-
-const TODO
-```
+This Optimizely TypeScript library provides access to the AI Backend API from the browser.
 
 ## Beta status
 
