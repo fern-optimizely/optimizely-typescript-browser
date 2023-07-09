@@ -31,7 +31,7 @@ export class Proxy {
             headers: {
                 "X-Fern-Language": "JavaScript",
                 "X-Fern-SDK-Name": "@fern-api/optimizely-browser",
-                "X-Fern-SDK-Version": "0.0.8",
+                "X-Fern-SDK-Version": "0.0.9",
             },
             contentType: "application/json",
             body: await serializers.proxy.azureOpenai.Request.jsonOrThrow(request, { unrecognizedObjectKeys: "strip" }),
@@ -89,7 +89,7 @@ export class Proxy {
             headers: {
                 "X-Fern-Language": "JavaScript",
                 "X-Fern-SDK-Name": "@fern-api/optimizely-browser",
-                "X-Fern-SDK-Version": "0.0.8",
+                "X-Fern-SDK-Version": "0.0.9",
             },
             contentType: "application/json",
             body: await serializers.proxy.openai.Request.jsonOrThrow(request, { unrecognizedObjectKeys: "strip" }),
