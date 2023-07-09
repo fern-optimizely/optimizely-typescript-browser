@@ -28,8 +28,8 @@ export class OptimizelyClient {
             method: "POST",
             headers: {
                 "X-Fern-Language": "JavaScript",
-                "X-Fern-SDK-Name": "fern-optimizely-browser",
-                "X-Fern-SDK-Version": "0.0.6",
+                "X-Fern-SDK-Name": "@fern-api/optimizely-browser",
+                "X-Fern-SDK-Version": "0.0.7",
             },
             contentType: "application/json",
             body: await serializers.ChatRequestDto.jsonOrThrow(request, { unrecognizedObjectKeys: "strip" }),
@@ -87,8 +87,8 @@ export class OptimizelyClient {
             method: "POST",
             headers: {
                 "X-Fern-Language": "JavaScript",
-                "X-Fern-SDK-Name": "fern-optimizely-browser",
-                "X-Fern-SDK-Version": "0.0.6",
+                "X-Fern-SDK-Name": "@fern-api/optimizely-browser",
+                "X-Fern-SDK-Version": "0.0.7",
             },
             contentType: "application/json",
             body: await serializers.ChatRequestDto.jsonOrThrow(request, { unrecognizedObjectKeys: "strip" }),
