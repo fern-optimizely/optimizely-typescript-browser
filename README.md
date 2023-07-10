@@ -15,6 +15,8 @@ yarn add @fern-api/optimizely-browser
 
 ## Usage
 
+[![Try it out](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/typescript-example-using-sdk-built-with-fern-oyupaj?file=app.ts&view=editor)
+
 ```typescript
 import { Optimizely, OptimizelyClient } from '@fern-api/optimizely-browser';
 
