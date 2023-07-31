@@ -24,7 +24,7 @@ export class Models {
             headers: {
                 "X-Fern-Language": "JavaScript",
                 "X-Fern-SDK-Name": "@fern-api/optimizely-browser",
-                "X-Fern-SDK-Version": "0.0.9",
+                "X-Fern-SDK-Version": "0.0.11",
             },
             contentType: "application/json",
             timeoutMs: 60000,
@@ -70,7 +70,7 @@ export class Models {
             headers: {
                 "X-Fern-Language": "JavaScript",
                 "X-Fern-SDK-Name": "@fern-api/optimizely-browser",
-                "X-Fern-SDK-Version": "0.0.9",
+                "X-Fern-SDK-Version": "0.0.11",
             },
             contentType: "application/json",
             timeoutMs: 60000,
