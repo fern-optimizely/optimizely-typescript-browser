@@ -1,3 +1,5 @@
+WARNING: This is not the supported Eleanor typescript SDK. Please use https://github.com/optimizely/js-optiai instead.
+
 # Optimizely AI Backend TypeScript Browser Library
 
 [![npm shield](https://img.shields.io/npm/v/@fern-api/optimizely-browser)](https://www.npmjs.com/package/@fern-api/optimizely-browser)
